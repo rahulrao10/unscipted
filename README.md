@@ -1,2 +1,2 @@
 # unscipted
-A website featuring my very own blog related to my life
+A website featuring a blog on my very own life
